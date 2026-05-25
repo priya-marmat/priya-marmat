@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 Data Analyst | Power BI Certified | Python · SQL · ML | 26M+ row datasets
 
 - 📫 How to reach me **priyamarmt@gmail.com**
 - 📊 I am skilled in Excel, Power Bi, SQL and Python with experience in data
